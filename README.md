@@ -21,9 +21,6 @@ The system includes IoT sensors, embedded firmware, and a web dashboard for moni
 ### Fisc
 A fiscalization and business transaction system designed to help businesses manage receipts and financial data.
 
-### EasyPages
-A lightweight web platform for building and managing simple business websites.
-
 ### TenantSpace
 A property management system that helps landlords and tenants manage rental agreements, payments, and maintenance requests efficiently.
 

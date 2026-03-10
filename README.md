@@ -1,6 +1,6 @@
-# DigitalTouchCode
+# Digital Touch
 
-DigitalTouchCode is a technology company focused on building practical software and IoT solutions for businesses and communities.
+Digital Touch is a technology company focused on building practical software and IoT solutions for businesses and communities.
 
 We specialize in developing modern systems that combine software engineering, automation, and artificial intelligence to solve real-world problems.
 
@@ -30,18 +30,17 @@ It helps small businesses and entrepreneurs track daily operations efficiently a
 
 ## Technologies We Use
 
-- Python  
-- Django  
-- Flask  
-- JavaScript
-- React
-- PostgreSQL  
-- MQTT  
-- ESP32 / Embedded Systems  
-- C++  
-- Rust  
-- Docker  
-- CI/CD pipelines
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)  
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)  
+![MQTT](https://img.shields.io/badge/-MQTT-FF6600?style=flat)  
+![ESP32](https://img.shields.io/badge/-ESP32-3C3C3C?style=flat)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)  
+![Networking](https://img.shields.io/badge/-Networking-1E90FF?style=flat)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ## Mission
 

@@ -21,10 +21,7 @@ The system includes IoT sensors, embedded firmware, and a web dashboard for moni
 ### Fisc
 A fiscalization and business transaction system designed to help businesses manage receipts and financial data.
 
-### TenantSpace
-A property management system that helps landlords and tenants manage rental agreements, payments, and maintenance requests efficiently.
-
-### QuickNote
+### Afrerp
 A business assistance tool that allows users to **log transactions, generate receipts, and access reports**.  
 It helps small businesses and entrepreneurs track daily operations efficiently and make informed decisions.
 

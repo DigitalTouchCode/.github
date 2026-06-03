@@ -56,11 +56,6 @@ Our mission is to build technology that empowers African businesses through reli
 
 To become a leading African technology company developing innovative software, IoT platforms, and AI-driven systems.
 
-## Founder
-
-Casper Moyo  
-Software Developer | AI Engineer (aspiring) | Electronics & IoT Enthusiast
-
 ## Contact
 
 Email: info@digitaltouch.co.zw
